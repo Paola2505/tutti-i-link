@@ -36,6 +36,8 @@
     	<li>Pasta n'casciata:maccheroni, 2 uova sode, melanzana,proscitto cotto,caciocavallo fresco, passata di pomodoro,basilico, pangrattato, sale e pepe.</li>
     	<li>Pasta cà muddica atturrata:spaghetti,aglio,peperoncino,pangrattato,olio evo,acciughe,sale e pepe nero.</li>	
     	<style type="text/css">
+		</body>
+	</html>
 
 
 
